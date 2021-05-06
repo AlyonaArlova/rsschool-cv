@@ -1,5 +1,4 @@
 
-
 # Alyona Arlova
 ## **Contact Info:**
 1. email address: biser-businka@mail.ru
@@ -22,4 +21,4 @@ explaing difficult concept to others more simply
 ## **Education:**
 1. Master degree (ISEU);
 1. Professional Scrum Master (PSM I); 
-## **English:** B2
+## **English:** B2/C1

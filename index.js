@@ -1,0 +1,1 @@
+console.log("Total Points: 115/120");
